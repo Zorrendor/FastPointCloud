@@ -4,7 +4,7 @@
         <engine:Button text="Load" name="LoadFromFileButton" class="custom-button" />
         <engine:Button text="Save" name="SaveToFileButton" class="custom-button" style="display: none;" />
         <engine:SliderInt label="PointSize" value="1" high-value="10" name="PointSizeSliderSliderInt" low-value="1" />
-        <engine:Slider label="Slider" value="42" high-value="1" name="AlphaSlider" />
-        <engine:SliderInt label="SliderInt" value="42" high-value="100" name="DensitySliderInt" />
+        <engine:Slider label="Alpha" value="42" high-value="1" name="AlphaSlider" />
+        <engine:SliderInt label="Density" value="42" high-value="100" name="DensitySliderInt" />
     </engine:VisualElement>
 </engine:UXML>
